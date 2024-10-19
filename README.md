@@ -24,7 +24,7 @@ Welcome to the **E-commerce Annual Analysis Report** repository! This project sh
 - **Customer Insights**: Breakdown of customer demographics and purchase behaviors.
 - **Channel**: Showing top channel-wise selling.
 
-  ## 📊 Key Performance Indicators (KPIs)
+ ## 📊 Key Performance Indicators (KPIs)
   This report tracks the following KPIs:
   - **Total Sales**: Overall Sales generated from business.
   - **Total orders**: Overall  Orders generated from business.
